@@ -1,0 +1,10 @@
+Status
+$ git status
+Pull changes
+$ git pull
+Add changed file / folder
+$ git add <file/folder-name>
+Add all changed files
+$ git add .
+Revert changed file / folder
+$ git checkout <file/folder-name>
