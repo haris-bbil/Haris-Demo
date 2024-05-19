@@ -8,3 +8,11 @@ Add all changed files
 $ git add .
 Revert changed file / folder
 $ git checkout <file/folder-name>
+Revert all the changed files
+$ git checkout .
+Commit changes
+$ git commit -m "Your message here."
+Push changes
+$ git push
+Clone new repository
+$ git clone <repo-url>
